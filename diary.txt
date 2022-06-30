@@ -1,0 +1,9 @@
+6/29/2022:
+Tutorials used: 
+- https://flexiple.com/javascript-clock/
+- https://www.codesdope.com/blog/article/how-to-create-a-digital-clock-using-javascript/
+- https://www.studytonight.com/post/build-a-simple-digital-clock-with-javascript
+
+6/30/2022:
+- https://www.geeksforgeeks.org/how-to-design-digital-clock-using-javascript/
+- https://teamtreehouse.com/community/problems-linking-javascript-file-to-html-file

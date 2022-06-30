@@ -1,0 +1,13 @@
+body {
+    font-family: system-ui;
+    background: gray;
+    color: white;
+    text-align: center;
+  }
+
+#clock {
+  font-family:'Courier New', Courier, monospace;
+  background: gray;
+  color: white;
+  text-align: center;
+}
